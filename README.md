@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harri Davies</h1>
 <h3 align="center">A passionate Software Engineer from Wales</h3>
 
-- 🔭 I’m currently working on **StartUp Success Predictor**
+- 🔭 I’m currently working on **Chatti Ai - A chatbot built for Law firms**
 
 - 🌱 I’m currently learning **C++**
 
