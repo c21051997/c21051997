@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Chatti Ai - A chatbot built for Law firms**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [harridavies.com](harridavies.com)
 
